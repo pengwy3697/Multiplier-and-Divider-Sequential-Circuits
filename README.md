@@ -1,5 +1,5 @@
-Multiplier-and-Divider-Sequential-Circuits
-==========================================
+Multiplier and Divider (Sequential Circuits)
+---
 
 Assignment guidelines: 
 2 Multiplication (8 marks)
