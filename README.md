@@ -1,5 +1,6 @@
 Multiplier and Divider (Sequential Circuits)
 ---
+Screenshots of the circuits are provided. 
 
 Assignment guidelines: 
 
