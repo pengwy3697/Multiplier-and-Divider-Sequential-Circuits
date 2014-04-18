@@ -4,7 +4,7 @@ Screenshots of the circuits are provided.
 
 Assignment guidelines: 
 
-Question 2: Multiplication (8 marks)
+Question 2: *Multiplication* (8 marks)
 
 Create a sequential circuit that implements an 8 bit unsigned multiplier. Your circuit should have
 RESET signal to signal that two 8 bit inputs A and B are ready to multiply. Your circuit should
@@ -15,7 +15,7 @@ probes (see wiring) to your input to display the value in decimal. Likewise atta
 16 bit output. Bonus: receive one extra mark if your solution is correct and uses only a single 8 bit
 adder.
 
-Question 3: Division (8 marks)
+Question 3: *Division* (8 marks)
 
 Create a sequential circuit that implements 8 bit unsigned division. Since the shift register included
 in the library only shifts right, you will certainly want to create a sub-circuit that implements a
